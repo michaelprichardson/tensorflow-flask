@@ -1,6 +1,7 @@
 # tensorflow-flask
 
-source venv/bin/activate
+source env/bin/activate
+pip install -r requirements.txt
 
 https://medium.com/firebase-developers/hosting-flask-servers-on-firebase-from-scratch-c97cfb204579
 
