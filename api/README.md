@@ -1,4 +1,4 @@
-# tensorflow-flask
+# tensorflow-flask-api
 
 source venv/bin/activate
 
